@@ -1,0 +1,32 @@
+<resources>
+
+    <!-- App -->
+    <string name="app_name">Catatan</string>
+    <string name="app_logo_desc">Logo aplikasi Catatan</string>
+
+    <!-- General -->
+    <string name="save">Simpan</string>
+    <string name="back">Kembali</string>
+    <string name="delete">Hapus</string>
+
+    <!-- Messages -->
+    <string name="note_saved">Catatan berhasil disimpan</string>
+    <string name="choose_language">Pilih Bahasa</string>
+    <string name="language_indonesian">Bahasa Indonesia</string>
+    <string name="language_english">English</string>
+    <string name="note_updated">Catatan berhasil diperbarui</string>
+    <string name="note_deleted">Catatan dihapus</string>
+    <string name="empty_note_warning">Judul dan isi catatan tidak boleh kosong</string>
+
+    <!-- Create / Edit Note -->
+    <string name="untitled">Tanpa Judul</string>
+    <string name="characters">%1$d Karakter</string>
+
+    <!-- Main -->
+    <string name="my_notes">Catatanku</string>
+    <string name="search">Cari…</string>
+    <string name="add_note">Tambah Catatan Baru</string>
+
+
+
+</resources>

@@ -1,0 +1,31 @@
+<resources>
+
+    <!-- App -->
+    <string name="app_name">Notes</string>
+    <string name="app_logo_desc">App logo</string>
+
+    <!-- General -->
+    <string name="save">Save</string>
+    <string name="back">Back</string>
+    <string name="delete">Delete</string>
+
+    <!-- Messages -->
+    <string name="note_saved">Note saved successfully</string>
+    <string name="choose_language">Choose Language</string>
+    <string name="language_indonesian">Indonesian</string>
+    <string name="language_english">English</string>
+    <string name="note_updated">Note updated successfully</string>
+    <string name="note_deleted">Note deleted</string>
+    <string name="empty_note_warning">Title and content cannot be empty</string>
+
+    <!-- Create / Edit Note -->
+    <string name="untitled">Untitled</string>
+    <string name="characters">%1$d Characters</string>
+
+    <!-- Main -->
+    <string name="my_notes">My Notes</string>
+    <string name="search">Search…</string>
+    <string name="add_note">Add New Note</string>
+
+
+</resources>
